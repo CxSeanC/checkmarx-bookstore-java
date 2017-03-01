@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+result.state.ids=0;1;2;3;4;109921
+result.state.labels=To Verify;Not Exploitable;Confirmed;Urgent;Proposed Not Exploitable;Not Really
+server.user.ids=2;3;4;5;6
+server.user.labels=admin;testdev;test@test.com;t.testerson@gmail.com;sam.max@gmail.com
+ws_servername=http\://localhost/cxwebinterface/Eclipse/CxEclipseWebService.asmx?wsdl
