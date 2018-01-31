@@ -1,2 +1,2 @@
 # checkmarx-bookstore-java
-Example Java Repo
+Example Java Repo vuln
