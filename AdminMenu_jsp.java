@@ -3,8 +3,6 @@ import javax.servlet.http.*;
 import javax.servlet.jsp.*;
 import org.apache.jasper.runtime.*;
 
-public class AdminMenu_jsp extends HttpJspBase {
-
 
 //
 //   Filename: Common.jsp
